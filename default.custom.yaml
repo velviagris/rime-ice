@@ -1,0 +1,3 @@
+patch:
+  # 菜单
+  "menu/page_size": 9  # 候选词个数
