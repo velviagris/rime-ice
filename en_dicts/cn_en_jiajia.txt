@@ -605,6 +605,8 @@ J.R.R.托尔金	JRRtoeqjl
 J.R.R.托尔金	jrrtoeqjl
 乔治·R.R.马丁	qkviRRmadq
 乔治·R.R.马丁	qkvirrmadq
+T.S.艾略特	TSaslte
+T.S.艾略特	tsaslte
 互fo	hufo
 减CD	jjCD
 减CD	jjcd
@@ -894,6 +896,7 @@ i次方	icifg
 i次幂	icimi
 n次方	ncifg
 n次幂	ncimi
+p进数	pjliu
 Z变换	Zbjhc
 Z变换	zbjhc
 逆Z变换	niZbjhc
@@ -906,6 +909,10 @@ Z逆变换	znibjhc
 双边Z变换	ihbjzbjhc
 Ⅰ型错误	yixqcowu
 Ⅱ型错误	eqxqcowu
+P波	Pbo
+P波	pbo
+S波	Sbo
+S波	sbo
 S曲线	Squxj
 S曲线	squxj
 DJ舞曲	DJwuqu

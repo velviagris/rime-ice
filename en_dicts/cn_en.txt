@@ -605,6 +605,8 @@ J.R.R.托尔金	JRRtuoerjin
 J.R.R.托尔金	jrrtuoerjin
 乔治·R.R.马丁	qiaozhiRRmading
 乔治·R.R.马丁	qiaozhirrmading
+T.S.艾略特	TSailvete
+T.S.艾略特	tsailvete
 互fo	hufo
 减CD	jianCD
 减CD	jiancd
@@ -894,6 +896,7 @@ i次方	icifang
 i次幂	icimi
 n次方	ncifang
 n次幂	ncimi
+p进数	pjinshu
 Z变换	Zbianhuan
 Z变换	zbianhuan
 逆Z变换	niZbianhuan
@@ -906,6 +909,10 @@ Z逆变换	znibianhuan
 双边Z变换	shuangbianzbianhuan
 Ⅰ型错误	yixingcuowu
 Ⅱ型错误	erxingcuowu
+P波	Pbo
+P波	pbo
+S波	Sbo
+S波	sbo
 S曲线	Squxian
 S曲线	squxian
 DJ舞曲	DJwuqu
